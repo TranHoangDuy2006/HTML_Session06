@@ -1,0 +1,139 @@
+.main-box
+{
+    width: 1000px;
+
+    height: 500px;
+
+    background-color: rgb(255, 255, 255);
+}
+
+.header-box
+{
+    width: 100%;
+
+    height: 15%;
+
+    background-color: #4cb04f;
+
+    display: flex;                
+    
+    justify-content: space-between;      
+    
+    align-items: center;          
+    
+    text-align: center;  
+}
+
+.text-in-header
+{
+    font-size: 15px;
+
+    color: white;
+
+    padding: 10px;
+}
+
+a
+{
+    color: white;
+
+    text-decoration: none;
+}
+
+.second-container 
+{
+    background-color: #f5f5f5;
+
+    width: 100%;
+
+    height: 200px; 
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;          
+    
+    text-align: center; 
+    
+    flex-direction: column;
+}
+
+p
+{
+    font-weight: normal;
+
+    font-size: 20px;
+
+    margin-top: 0 !important;  
+}
+
+.bold-text 
+{
+    font-weight: bold;
+}
+
+.normal-text 
+{
+    font-weight: normal;
+
+    display: block;
+}
+
+button
+{
+    color: white;
+
+    border: none;
+
+    border-radius: 5px;
+
+    background-color: #4cb04f;
+
+    padding: 10px 30px 10px 30px;
+}
+
+.third-container
+{
+    width: 100%;
+
+    height: 15%;
+
+    background-color: rgb(255, 255, 255);
+}
+
+.custom-button
+{
+    color: rgb(45, 44, 44);
+
+    background-color: #dedede;
+
+    padding: 20px 120px 20px 120px;
+
+    margin: 20px 20px 10px 10px;
+}
+
+.bottom-box
+{
+    width: 100%;
+
+    height: 70px;
+
+    background-color: #333333;
+
+    margin-top: 30px;
+
+    text-align: center;
+
+    color: white;
+}
+
+.text-design
+{
+    color: white;
+
+    font-size: 20px;
+
+    padding: 25px 0 15px;
+}
+

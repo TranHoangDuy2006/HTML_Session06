@@ -1,0 +1,111 @@
+.div1 
+{
+    background-color: #007bff;
+    
+    width: 1000px; 
+    
+    padding: 20px; 
+
+    height: 50px;
+}
+
+.div2
+{
+    background-color: white;
+}
+
+.div3
+{
+    margin-top: 20px;
+}
+
+.div4 
+{
+    background-color: rgb(204, 202, 202);
+    
+    text-align: center;
+    
+    padding: 30px;
+    
+    margin-top: 60px; 
+    
+    clear: both; /* Ngăn các phần tử bị ảnh hưởng */
+
+    height: 30px;
+
+    max-width: 980px;
+}
+
+p
+{
+    text-align: center;
+
+    margin-top: 1px;
+
+    color: white;
+
+    font-weight: bold;
+
+    font-size: 20px;
+}
+
+.p2
+{
+    font-size: 10px;
+
+    color: white;
+
+    text-align: center;
+
+    font-weight: bold
+}
+
+.p3
+{
+    color:black;
+}
+
+.profile
+{
+    width: 100px;
+    
+    height: 100px;
+    
+    border-radius: 50%;
+    
+    border: 3px solid rgb(38, 0, 253);
+    
+    margin-left: 300px;
+    
+    margin-right: 10px;
+    
+    background-color: #7cab49;  
+    
+    float: left;
+}
+
+span
+{
+    padding: 20px 20px 20px 10px;
+
+    margin-top: 100px;
+
+    margin-left: 10px;
+}
+
+.span1
+{
+    margin-left: 10px;
+}
+
+.type1
+{
+    text-decoration: none;
+
+    color: white;
+
+    font-size: 12px;
+}
+
+
+
